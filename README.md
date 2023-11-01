@@ -8,7 +8,7 @@ Some notes about the script:
 * The Qobuz Web Player is not designed to scale well on mobile devices (hence the native apps).  
 I recomment enabling the "desktop site" option for play.qobuz.com on mobile devices for the best results.
 
-Tested with Tampermonkey in Brave on desktop but should also work in Chrome.  
+Tested with Tampermonkey on desktop with Brave (should also work in Chrome) and Firefox.  
 Tested with Tampermonkey in Kiwi Browser on Android.
 
 ## Installing
