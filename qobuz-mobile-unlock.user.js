@@ -4,6 +4,7 @@
 // @version      1
 // @description  Unlocks the Qobuz Web Player on mobile devices.
 // @author       DJDoubleD
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=qobuz.com
 // @namespace    https://github.com/DJDoubleD/Qobuz-Mobile-Unlock
 // @homepageURL  https://github.com/DJDoubleD/Qobuz-Mobile-Unlock
 // @match        https://play.qobuz.com/*
