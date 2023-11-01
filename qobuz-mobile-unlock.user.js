@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Qobuz Mobile Unlock
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      1.1
 // @description  Unlocks the Qobuz Web Player on mobile devices.
 // @author       DJDoubleD
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=qobuz.com
@@ -25,9 +25,9 @@
                 // Remove mobileOverlay element from DOM tree
                 mobileOverlay.remove();
                 // Disconnect the observer once the element is removed
-				// Comment this line out to restore some features that rely on the mobileOverlay element 
-				// at the cost of doing some manual refreshes
-                observer.disconnect();
+		// Uncomment this line out to restore some features that rely on the mobileOverlay element 
+		// at the cost of doing some manual refreshes
+                // observer.disconnect();
             }
         });
 
