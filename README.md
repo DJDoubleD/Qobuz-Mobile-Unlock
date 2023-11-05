@@ -9,7 +9,7 @@ Some notes about the script:
 I recomment enabling the "desktop site" option for play.qobuz.com on mobile devices for the best results.
 
 Tested with Tampermonkey on desktop with Brave (should also work in Chrome) and Firefox.  
-Tested with Tampermonkey in Kiwi Browser on Android.
+Tested with Tampermonkey in Kiwi Browser and Firefox on Android.
 
 ## Installing
 
