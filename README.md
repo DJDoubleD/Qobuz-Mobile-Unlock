@@ -6,10 +6,10 @@ Unlocks the Qobuz Web Player on small browser windows and mobile devices by remo
 
 Some notes about the script:
 
-* It might break at any time if Qobuz makes a change to their Web Player.
-* Some elements that rely on the mobileOverlay won't work. Uncomment the indicated line in the script to restore some features at the cost of having to sometimes manually refresh the page to remove the mobileOverlay.
-* The Qobuz Web Player is not designed to scale well on mobile devices (see example screenshot above, hence the native apps).  
-I recomment enabling the "desktop site" option for play.qobuz.com on mobile devices for the best results.
+- It might break at any time if Qobuz makes a change to their Web Player.
+- Some elements that rely on the mobileOverlay won't work (correctly). An example is the "What's New" menu item, which will result in a blank page. Manually refreshing the page should solve this (not going to waste time looking for an automatic solution to this...).
+- The Qobuz Web Player is not designed to scale well on mobile devices (see example screenshot above, hence the native apps).  
+  I recomment enabling the "desktop site" option for play.qobuz.com on mobile devices for the best results.
 
 Tested with Tampermonkey on desktop with Brave (should also work in Chrome) and Firefox.  
 Tested with Tampermonkey in Kiwi Browser and Firefox on Android.
