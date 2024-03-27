@@ -2,7 +2,7 @@
 
 Unlocks the Qobuz Web Player on small browser windows and mobile devices by removing the blocking mobileOverlay element that is inserted on top of the normal web player when the screen resolution is to small.
 
-![Qobuz with mobileOverlay](./assets/Qobuz_mobileOverlay.png) ![Qobuz mobileOverlay removed](./assets/Qobuz_mobileOverlay_removed.png)
+![Qobuz with mobileOverlay](./assets/Qobuz_mobileOverlay_present.png) ![Qobuz mobileOverlay removed](./assets/Qobuz_mobileOverlay_removed.png)
 
 Some notes about the script:
 
